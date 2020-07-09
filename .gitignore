@@ -32,3 +32,5 @@
 *.app
 
 *.gdb
+*.ilk
+*.pdb

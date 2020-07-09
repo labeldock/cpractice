@@ -12,6 +12,7 @@
         "/utf-8",
         "/validate-charset",
         "/std:c++17",
+        "/DTARGET_IA32"
         "/EHsc",
         "/Zi",
         "/Fe:",
